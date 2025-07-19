@@ -316,14 +316,12 @@ public function hookActionModuleGtmBeforeOutput($params)
 
 ## Changelog
 
-### Version 2.1.5 (Current)
+### Version 1.0.1 (Current)
 - ✅ Enhanced GA4 integration with smart dataLayer configuration
 - ✅ Improved validation and error handling
 - ✅ Better admin interface with clear instructions
 - ✅ Performance optimizations
 - ✅ Security enhancements
-
-### Version 2.0.0
 - ✅ Added GA4 auto-configuration
 - ✅ Dual GTM+GA4 setup
 - ✅ Enhanced measurement support
