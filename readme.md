@@ -1,4 +1,4 @@
-# Google Tag Manager & GA4 Module for PrestaShop
+# Google Tag Manager & GA4 Module (Addon) for PrestaShop
 
 ## Overview
 
