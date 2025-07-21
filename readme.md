@@ -1,4 +1,4 @@
-# Google Tag Manager & GA4 Module for PrestaShop
+# Google Tag Manager & GA4 Module (Addon) for PrestaShop
 
 ## Overview
 
@@ -346,6 +346,7 @@ Need custom implementation or advanced setup?
 
 **Contact for Professional Support:**
 - 📧 **Email**: dzemal.imamovic@outlook.com
+- 🔧 **Fiverr**: https://www.fiverr.com/s/yvazVAG
 - 🔧 **Services**: Custom GTM/GA4 implementations, advanced tracking setup
 - 💼 **Enterprise**: Large-scale deployments, custom integrations
 
@@ -354,6 +355,21 @@ Need custom implementation or advanced setup?
 If this module helps your business, please star it on GitHub! Your support helps us continue developing free tools for the PrestaShop community.
 
 ---
+
+## ☕ Found this post helpful or enjoyable?
+
+You can support my work by buying me a coffee or donating via PayPal. Every bit helps and is much appreciated!
+
+<p align="center">
+  <a href="https://buymeacoffee.com/jimmyweb" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=buymeacoffee&logoColor=white&style=for-the-badge" alt="Buy Me A Coffee">
+  </a>
+  &nbsp;
+  <a href="https://www.paypal.com/paypalme/jimmyweb" target="_blank">
+    <img src="https://img.shields.io/badge/Donate%20via%20PayPal-blue?logo=paypal&logoColor=white&style=for-the-badge" alt="Donate via PayPal">
+  </a>
+</p>
+
 
 **Made with ❤️ for the PrestaShop community**
 
