@@ -17,7 +17,7 @@ class GtmModule extends Module
     {
         $this->name = 'gtmmodule';
         $this->tab = 'analytics_stats';
-        $this->version = '1.0.1';
+        $this->version = '1.0.2';
         $this->author = 'Dzemal Imamovic';
         $this->need_instance = 0;
         $this->ps_versions_compliancy = [

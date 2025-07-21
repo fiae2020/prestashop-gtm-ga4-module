@@ -40,17 +40,30 @@
         <li>Performance Tuning</li>
       </ul>
       
-      <div class="bg-light p-2 rounded">
-        <p class="mb-1"><i class="icon-certificate me-1"></i> <strong>Dzemal Imamovic</strong></p>
-        <p class="mb-0 small">
-          Certified Software Developer | 10+ Years E-Commerce Experience
-          <br>
-          <a href="mailto:dzemal.imamovic@outlook.com" class="alert-link">dzemal.imamovic@outlook.com</a> | 
-          <a href="https://www.fiverr.com/s/qDvrV1g" target="_blank" rel="noopener" class="alert-link">Fiverr Profile</a>
-        </p>
-      </div>
+<div class="bg-light p-2 rounded">
+  <p class="mb-1 small text-muted">
+    Certified Software Developer | 10+ Years E-Commerce Experience
+  </p>
+
+  <p class="mb-1">
+    <i class="icon-certificate me-1"></i> <strong>Dzemal Imamovic</strong>
+  </p>
+
+  {* Donation buttons with PrestaShop icon font *}
+  <p class="mb-2 text-center">
+    <a href="https://buymeacoffee.com/jimmyweb" target="_blank" class="btn btn-outline-warning btn-sm me-1" rel="noopener">
+      <i class="icon-gift me-1"></i> Buy Me a Coffee
+    </a>
+    <a href="https://www.paypal.com/paypalme/jimmyweb" target="_blank" class="btn btn-outline-primary btn-sm" rel="noopener">
+      <i class="icon-money me-1"></i> Donate via PayPal
+    </a>
+  </p>
+
+  <p class="mb-0 small">
+    <a href="mailto:dzemal.imamovic@outlook.com" class="alert-link">dzemal.imamovic@outlook.com</a> | 
+    <a href="https://www.fiverr.com/s/qDvrV1g" target="_blank" rel="noopener" class="alert-link">Fiverr Profile</a>
+  </p>
+</div>
     </div>
   </div>
 </div>
-
-
